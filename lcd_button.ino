@@ -1,7 +1,7 @@
 /*
 
     PRINTING TO THE LCD SCREEN WITH THE BUTTON
-    @berhanOzturk
+    @github.com/berhanozturk
 
 */
 
